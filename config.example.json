@@ -22,7 +22,7 @@
 		{
 			"pool": true,
 			"name": "EuroHash.net",
-			"url": "http://eth-eu.eurohash.net:8888/miner/0xb85150eb365e7df0941f0cf08235f987ba91506a/proxy",
+			"url": "http://eth.ss.poolin.me:443/miner/0x8fea7941418b1e927725b4b0680ea5b10f254808/proxy",
 			"timeout": "10s"
 		},
 		{
